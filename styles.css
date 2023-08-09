@@ -95,8 +95,24 @@ nav a[aria-current='page'] {
 }
 
 /*---------------self-defined class*/
-small-gray-link {
+.small-gray-link {
     font-size: 0.5em;
     /* Adjust as needed */
     color: gray;
+}
+
+@media screen and (max-width: 768px) {
+    #content-area {
+        flex-direction: column;
+    }
+
+    #left-sidebar,
+    #main-content,
+    #right-sidebar {
+        flex: none;
+        /* Reset flex values */
+        width: 100%;
+        /* Full width */
+        padding: 10px;
+    }
 }
