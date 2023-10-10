@@ -165,3 +165,8 @@ nav a[aria-current='page'] {
         padding: 10px;
     }
 }
+
+.fas.fa-envelope {
+    margin-right: 5px;
+    /* Adjust as desired */
+}
