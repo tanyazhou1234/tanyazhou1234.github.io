@@ -148,6 +148,15 @@ nav a[aria-current='page'] {
     line-height: 1.5;
 }
 
+text-in-JPN {
+    font-size: 1rem;
+    /* You can adjust the font size to make it appear "normal" */
+    margin: 0;
+    /* Removes any default margin */
+    font-weight: normal;
+    color: #444444
+}
+
 
 /*----for smaller screens ,make it vertical-----*/
 @media screen and (max-width: 768px) {
