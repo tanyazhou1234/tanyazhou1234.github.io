@@ -83,7 +83,7 @@ nav a[aria-current='page'] {
 
 #left-sidebar {
     /*---profile---*/
-    flex: 1.5;
+    flex: 1.2;
     background-color: #f8f9fa;
     padding: 10px;
     box-sizing: border-box;
@@ -91,7 +91,7 @@ nav a[aria-current='page'] {
 
 #main-content {
     /*---News---*/
-    flex: 1;
+    flex: 1.2;
     background-color: #e9ecef;
     padding: 10px;
     box-sizing: border-box;
