@@ -6,15 +6,15 @@
 h1 {
     font-size: 1.5rem;
     color: Black;
-    background-color: Gainsboro;
+    background-color: #c0e4e9;
 }
 
 h2 {
-    color: DarkSlateGray;
+    color: rgb(10, 87, 87);
 }
 
 h3 {
-    color: DimGray;
+    color: Black;
 }
 
 p {
@@ -179,3 +179,23 @@ text-in-JPN {
     margin-right: 5px;
     /* Adjust as desired */
 }
+
+/* --- for table --- */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 16px;
+    text-align: center;
+}
+th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+}
+th {
+    background-color: #f4f4f4;
+}
+tr:nth-child(even) {
+    background-color: #fafafa;
+}
+
