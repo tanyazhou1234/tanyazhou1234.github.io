@@ -70,15 +70,9 @@ nav a[aria-current='page'] {
 
 #content-area {
     display: flex;
-    height: calc(100vh - 60px);
-    /* Subtract the height of the nav bar */
-    /*margin-top: 10px; /* Top margin */
     margin-right: 30px;
-    /* Right margin */
     margin-bottom: 30px;
-    /* Bottom margin */
     margin-left: 30px;
-    /* Left margin */
 }
 
 #left-sidebar {
@@ -155,6 +149,7 @@ nav a[aria-current='page'] {
 }
 
 
+ol li { margin-bottom: 0.8em; }
 
 
 
