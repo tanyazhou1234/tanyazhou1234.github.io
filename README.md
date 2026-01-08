@@ -1,4 +1,13 @@
-# Tong's home page
+# Zhou Tong (周桐 / シュウ ドウ)
 
-[zhoutong.org](https://zhoutong.org/)
+Personal academic website of Zhou Tong.
 
+🔗 https://tanyazhou1234.github.io/
+
+## Research
+
+Acoustic signal processing, multi-zone sound field reproduction, sound field control, and optimization.
+
+## Contact
+
+tanyazhou1234[at]gmail.com
