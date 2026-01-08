@@ -194,3 +194,9 @@ tr:nth-child(even) {
     background-color: #fafafa;
 }
 
+
+nav a.active {
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
